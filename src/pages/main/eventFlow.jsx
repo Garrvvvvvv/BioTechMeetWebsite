@@ -2,17 +2,9 @@ import { useEffect, useRef, useState } from "react";
 
 /* -------------------------- Data -------------------------- */
 const events = [
-  { title: "Alumni Reunion — Event Flow", desc: "Two-day reunion at TI campus.", date: "Dec 2025" },
-  { title: "Welcome & Registration", desc: "Check-in at Hostel M Mess and settle into rooms.", date: "Day 1 • 10:00 AM – 2:00 PM" },
-  { title: "Lunch at Hostel M Mess", desc: "Hearty lunch while alumni arrive safely.", date: "Day 1 • 12:30 PM – 2:00 PM" },
-  { title: "Walk to Remember + Inauguration", desc: "Procession from Hostel M to Main Auditorium with Bhangra team; official inauguration.", date: "Day 1 • 3:00 PM (sharp)" },
-
-  { title: "Morning Bliss", desc: "Optional: Visit to Gurdwara Dukh Niwaran Sahib / campus walk (Kali Mata Mandir) / yoga session.", date: "Day 2 • 6:30 AM – 8:30 AM" },
-  { title: "Breakfast", desc: "Leisurely breakfast at Hostel M Mess.", date: "Day 2 • 8:00 AM – 9:30 AM" },
-  { title: "Back to the Classroom", desc: "Fun MCQ quiz + interaction with favourite faculty.", date: "Day 2 • 10:00 AM – 11:30 AM" },
-  { title: "Campus Stroll & Activities", desc: "Revisit corners of campus; sports & games; soak in how the campus has grown.", date: "Day 2 • 11:30 AM – 1:00 PM" },
-  { title: "Faculty–Alumni Lunch", desc: "Lunch with faculty at Hostel M.", date: "Day 2 • 1:00 PM – 2:30 PM" },
-  { title: "Farewell & Goodbyes", desc: "Wrap-up and depart with warm memories.", date: "Day 2 • 2:30 PM" },
+  { title: "To be Announced", desc: "Full event schedule will be published soon.", date: "TBA" },
+  { title: "Highlights Coming Soon", desc: "Key sessions and timings will be shared shortly.", date: "TBA" },
+  { title: "Stay Tuned", desc: "Watch this space for updates and detailed agenda.", date: "TBA" },
 ];
 
 /* -------------------- Snow Overlay (Canvas) -------------------- */
