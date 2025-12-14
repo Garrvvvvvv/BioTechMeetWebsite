@@ -97,18 +97,6 @@ export default function Registration() {
               contact the organisers.
             </Typography>
           </Grid>
-
-          <Grid item xs={12} md={6}>
-            <Card elevation={4} sx={{ borderRadius: 2 }}>
-              <CardMedia
-                component="img"
-                height="300"
-                image="/assets/registration-hero.jpg"
-                alt="Registration"
-                sx={{ objectFit: 'cover' }}
-              />
-            </Card>
-          </Grid>
         </Grid>
       </Container>
     </Box>
