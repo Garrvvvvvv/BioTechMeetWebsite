@@ -107,16 +107,6 @@ export default function Registration() {
                 alt="Registration"
                 sx={{ objectFit: 'cover' }}
               />
-
-              <CardContent>
-                <Typography variant="h6" sx={{ fontWeight: 600 }}>
-                  Why register?
-                </Typography>
-                <Typography color="text.secondary" sx={{ mt: 1 }}>
-                  Registration helps us manage seating, share event updates, and ensure a
-                  smooth experience. We recommend using the official form for fastest processing.
-                </Typography>
-              </CardContent>
             </Card>
           </Grid>
         </Grid>
